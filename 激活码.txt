@@ -13,4 +13,8 @@ Test--提交到develop分支
 
 test--再次拉取
 
+<<<<<<< HEAD
 本地修改制造冲突
+=======
+GitHub修改制造冲突
+>>>>>>> 60397fa5611ad1d24488fc748eff5c9b5fb2a911
