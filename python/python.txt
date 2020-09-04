@@ -1,3 +1,10 @@
 print('hello world')
+<<<<<<< HEAD
 
 111
+=======
+i = 1
+for i in range(2):
+  i = i +1
+  print(i)
+>>>>>>> 983ff6ebd05759f2cb91e4a675a8cfca72210dd5
